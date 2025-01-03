@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Add this to your CSS file */
+body {
+    background: linear-gradient(90deg, #fff, hsla(0, 3%, 87%, 0.648) 0, #fff 0, rgba(98, 151, 204, 0.474));
+  }
