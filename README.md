@@ -58,6 +58,22 @@ yarn dev
 
 4. Open your browser and visit `http://localhost:5173`
 
+## 📁 Deployment
+
+This project is configured for deployment on Vercel. To deploy:
+
+1. Push your code to GitHub
+2. Visit [Vercel](https://vercel.com) and create a new project
+3. Import your GitHub repository
+4. Vercel will automatically detect the configuration from `vercel.json`
+5. Click "Deploy" and your site will be live in minutes
+
+The `vercel.json` configuration includes:
+- Proper routing for React applications
+- Build command configuration
+- Output directory specification
+- Framework specification (Vite)
+
 ## 📁 Project Structure
 
 ```
