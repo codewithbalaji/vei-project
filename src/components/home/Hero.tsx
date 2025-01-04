@@ -5,7 +5,7 @@ const Hero = () => {
     <>
       <div className="h-screen flex flex-col items-center justify-center mt-2 mb-24">
         {/* add border right and bottom to the image */}
-        <div className="w-4/5 h-4/5 pt-2 justify-center items-center mb-4 border-r-8 border-gray-500 border-b-8 rounded-xl">
+        <div className="lg:w-4/5 lg:h-4/5 pt-2 justify-center items-center lg:mt-20  mb-4 border-r-8 border-gray-500 border-b-8 rounded-xl">
           <img
             src={heroImage}
             alt="Hero"

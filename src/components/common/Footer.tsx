@@ -3,7 +3,7 @@
 const Footer = () => {
   
   return (
-    <footer className="bg-gradient-to-r from-[#747e83] to-[#606b77] text-white py-4"> 
+    <footer className="bg-gradient-to-r from-[#747e83] to-[#606b77] text-white py-4 px-4"> 
       <div className="container mx-auto">
         {/* Main Content */}
         <div className="flex flex-col md:flex-row justify-around items-start mb-6">

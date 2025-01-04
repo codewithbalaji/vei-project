@@ -5,7 +5,7 @@ const HowToSubmit = () => {
         How to Submit paper in INSPECT-2024
       </h1>
       
-      <div className="max-w-7xl space-y-6">
+      <div className="max-w-6xl space-y-6">
         <p className="text-justify">
           Prospective authors are encouraged to submit <span className="font-semibold">full</span> papers in PDF format not exceeding 6 pages in double-column includes all figures, tables, and references, 2000/25 USD per page (maximum 2 extra page). The paper must follow the standard IEEE template <a href="#" className="text-blue-600 hover:underline">link here</a>. Papers not compliant with the IEEE template including appropriate referencing or exceeding the page limit will be returned without review. Only original papers that have not been published or submitted for publication elsewhere will be considered. The paper must clearly indicate the research area, main results, and contributions. <span className="font-bold">All Accepted and Presented papers will be submitted for publication to IEEE Xplore, which is indexed with world's leading Abstracting & Indexing (A&I) databases (SCOPUS etc.)</span>
         </p>

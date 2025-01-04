@@ -1,8 +1,9 @@
+import CommitteeMembers from "../components/committee/CommitteeMembers"
 
 
 const Committee = () => {
   return (
-    <div>Committee</div>
+    <CommitteeMembers />
   )
 }
 

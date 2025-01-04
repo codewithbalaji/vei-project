@@ -3,8 +3,8 @@ const ImportantTable = () => {
   return (
     <div className="h-screen flex flex-col items-center mt-8 mb-24">
       <h1 className="text-4xl font-semibold">Important Dates</h1>
-      <div className="overflow-hidden whitespace-nowrap mt-4">
-        <p className="text-3xl text-red-500 font-semibold animate-marquee">
+      <div className="overflow-hidden text-nowrap mt-4 w-full">
+        <p className="text-3xl text-red-500 font-semibold animate-marquee ">
         The INSPECT-2024 (INtelligent Signal Processing and Effective Communication Technologies) conference will be held at ABV-IIITM, Gwalior during 7th and 8th December 2024.
         </p>
       </div>

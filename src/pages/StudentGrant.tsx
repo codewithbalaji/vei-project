@@ -1,8 +1,10 @@
-
+import StudentGrantComp from "../components/studentGrant/StudentGrantComp";
 
 const StudentGrant = () => {
   return (
-    <div>StudentGrant</div>
+    <>
+      <StudentGrantComp />
+    </>
   )
 }
 

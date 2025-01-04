@@ -1,8 +1,11 @@
+import AwardsComp from "../components/awards/AwardsComp"
 
 
 const Awards = () => {
   return (
-    <div>Awards</div>
+    <>
+      <AwardsComp />
+    </>
   )
 }
 

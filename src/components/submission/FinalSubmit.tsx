@@ -5,7 +5,7 @@ const FinalSubmit = () => {
         Final Paper Submission Guidelines
       </h1>
 
-      <div className="max-w-7xl space-y-6">
+      <div className="max-w-6xl space-y-6">
         <p className="text-justify">
           Please note that the last date for uploading the final camera-ready
           manuscript is 30 September 2024, 23:59 IST.

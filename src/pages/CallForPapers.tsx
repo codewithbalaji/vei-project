@@ -1,8 +1,9 @@
+import CallForPapersComp from "../components/callForPapers/CallForPapersComp"
 
 
 const CallForPapers = () => {
   return (
-    <div>CallForPapers</div>
+    <CallForPapersComp />
   )
 }
 

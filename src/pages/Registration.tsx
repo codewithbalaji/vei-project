@@ -1,8 +1,9 @@
+import RegistrationComp from "../components/registration/RegistrationComp"
 
 
 const Registration = () => {
   return (
-    <div>Registration</div>
+    <RegistrationComp />
   )
 }
 
